@@ -130,11 +130,11 @@ A.  Select startup scripts that you wish to add to the start menu
 
 Landscape output example of an Icarus camera:
 
-![Icarus Results](icarus_results.jpg) 
+![Icarus Results](icarus_results.png) 
 
 Landscape output example of a Daedalus camera:
 
-![Daedalus Results](daedalus_results.jpg) 
+![Daedalus Results](daedalus_results.png) 
 
 ## Issues:
 
