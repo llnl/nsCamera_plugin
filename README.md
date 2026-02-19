@@ -1,8 +1,18 @@
-**Readme for ImageJ Micro-Manager Plugin Interfacing with hCMOS Camera**
+**Readme for nsCamera ImageJ Plugin**
 
-Updated: 12/1/2025
+Copyright &copy; 2025, Lawrence Livermore National Security, LLC.  All rights reserved.
+LLNL-CODE-2015413
 
-Authors: Jeremy Hill, Brad Funsten, Peter Nyholm
+This work was produced at the Lawrence Livermore National Laboratory (LLNL) under
+contract no. DE-AC52-07NA27344 (Contract 44) between the U.S. Department of Energy
+(DOE) and Lawrence Livermore National Security, LLC (LLNS) for the operation of LLNL.
+
+'nsCamera_plugin' is distributed under the terms of the MIT license. All new contributions must
+be made under this license.
+
+Author: Jeremy Martin Hill (jerhill@llnl.gov)
+
+Version: 1.01 (February 2026) 
 
 ## Installing & Getting Started 
 
