@@ -1,6 +1,6 @@
 **Readme for nsCamera ImageJ Plugin**
 
-Copyright &copy; 2025, Lawrence Livermore National Security, LLC.  All rights reserved.
+Copyright &copy; 2026, Lawrence Livermore National Security, LLC.  All rights reserved.
 LLNL-CODE-2015413
 
 This work was produced at the Lawrence Livermore National Laboratory (LLNL) under
